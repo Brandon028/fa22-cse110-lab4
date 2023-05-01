@@ -26,7 +26,7 @@
     3.  student.greeting()
     4.  student['Favorite Teacher'].name
     5.  student.courseLoad[0]
-    6.  
+    
 13. arithmetic
     1.  '32'
         1.  the integer 2 was mapped to its string representation '2' and appended to the string '3'
